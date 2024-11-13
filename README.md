@@ -1,2 +1,2 @@
 # cycle-gha-example
-An example of how to use Cycle CLI within a GitHub Actions workflow. ▶️
+A public repository that is linked to a GitHub Actions pipeline. For **FULL DOCUMENTATION** on how to use `cycle-cli` with GitHub Actions, please see our official repository: [Using cycle-cli in a GitHub Actions pipeline](https://dev.azure.com/cyclelabs/cycle-codetemplates/_git/githubactions)
